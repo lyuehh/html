@@ -4,3 +4,5 @@ h1 {color: #1ABC9C;text-align: center;}
 .main {padding-left: 20px;float:left;border: 1px solid #E67E22;width:556px;margin-left: 20px;}
 .clear {clear: both;}
 .footer {text-align: center;border: 1px solid #9B59B6;}
+
+.red {color: green;}
